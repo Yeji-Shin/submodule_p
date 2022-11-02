@@ -1,0 +1,3 @@
+[submodule "submodule_c"]
+	path = submodule_c
+	url = https://github.com/Yeji-Shin/submodule_c.git
